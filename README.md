@@ -4,7 +4,7 @@
 
 ## 🚀 Shaan Mathew 
  I'm a Data Science enthusiast,
-I have completed my B.Tech Computer Science and Engineering with specialization in (Business Analytics and Optimization) by IBM from Sandip University Nashik, CGPA 8.5
+I have completed my B.Tech Computer Science and Engineering with specialization in (Business Analytics and Optimization) by IBM from Sandip University Nashik, CGPA 8.74
 
 
 ## 🛠 Skills
@@ -22,6 +22,6 @@ I have completed my B.Tech Computer Science and Engineering with specialization 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaan-mathew-841a06245/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaanvm18/)
 
 
